@@ -1,0 +1,10 @@
+https://github.com/lwthiker/curl-impersonate
+https://github.com/alirezamika/autoscraper
+https://github.com/Genymobile/scrcpy
+https://github.com/D4Vinci/Scrapling
+https://github.com/microsoft/markitdown
+https://github.com/scrapy/scrapy
+https://github.com/apify/crawlee
+https://github.com/browser-use/browser-use
+https://github.com/unclecode/crawl4ai
+https://github.com/firecrawl/firecrawl
